@@ -22,3 +22,6 @@ Applied and evaluated Agglomerative Hierarchical Clustering (AHC) as an unsuperv
 
 5. Model Evaluation:  
 Evaluated and validated the performance of the supervised models using k-fold cross-validation to assess their predictive accuracy and generalization capability.
+![](/img/Boxplots.png)
+![](/img/Distribution.png)
+![](/img/ConfusionMatrixTest.png)    ![](/img/ScoresTest.png)
