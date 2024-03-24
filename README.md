@@ -1,4 +1,4 @@
-## [Machine Learning Project in Python - Report](https://github.com/lolavc/MLinPython/blob/main/MLPython_Report.pdf)
+## [Machine Learning Project in Python - Report](https://github.com/lolavc/MLinPython/blob/main/ML_Python.pdf)
 ### Analysis of the Dataset: Estimation of Obesity Levels Based on Eating Habits and Physical Condition
 This project investigates the estimation of obesity levels utilizing machine learning methods, focusing on unsupervised and supervised techniques. 
 The dataset used is sourced from an online survey conducted on eating habits and physical conditions in Colombia, Mexico, and Peru (Palechor and Manotas, 2019). 
